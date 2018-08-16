@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vigneshchandra
+ *
+ */
+module javacollections {
+}
